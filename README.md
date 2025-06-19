@@ -10,7 +10,6 @@ Este é um projeto simples de um sistema CRUD (Create, Read, Update, Delete) des
 - Listar clientes cadastrados
 - Editar dados de um cliente
 - Excluir clientes
-- Banco de dados MySQL
 
 ---
 
